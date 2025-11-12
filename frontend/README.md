@@ -1,0 +1,1 @@
+admin interface and QR implementation on Frontend
